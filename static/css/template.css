@@ -1,0 +1,14 @@
+body{
+    background: #ffffff;
+}
+
+nav {
+    display: inline-block;
+}
+
+li{
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid palegreen;
+}
